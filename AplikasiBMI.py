@@ -19,3 +19,6 @@ print(f"Berat Badan Ideal adalah: {berat_ideal_bawah:.2f} - {berat_ideal_atas:.2
 
 print("Terima kasih sudah menggunakan program ini")
 print("coba tambahkan ke new version git")
+if a>3:
+    a = (input("input nilai a: "))
+    print({a})
